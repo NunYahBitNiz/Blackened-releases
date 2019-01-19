@@ -3,6 +3,10 @@ Releases for BlackenedMod
 
 Just flash in Magisk Manager and forget it!
 
+Preinstallation:
+-Remove ANY old installations from /data/adb/service.d (Old installation scheme, magisk is the new one)
+-You're good!
+
 To check it:
 - Check for /sdcard/logs
 - If BlackenedMod is in there, then you're good!
