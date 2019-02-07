@@ -1,4 +1,5 @@
 # Blackened-releases
+**Now Deprecated**
 Releases for BlackenedMod
 
 Just flash in Magisk Manager and forget it!
